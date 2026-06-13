@@ -1,2 +1,2 @@
 # Playwright-Practice-2026
-Placticing Playwright with AI 
+Practising Playwright with AI 
